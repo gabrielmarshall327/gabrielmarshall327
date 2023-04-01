@@ -1,4 +1,7 @@
-Howdy!
+Howdy! I'm Gabe!
+
+- :books: I’m currently going to school for Computer Engineering at Texas A&M University
+- 🌱 I’m currently learning
 
 <!--
 **gabrielmarshall327/gabrielmarshall327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
