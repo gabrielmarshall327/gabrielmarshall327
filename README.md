@@ -1,7 +1,9 @@
 Howdy! I'm Gabe!
 
 - :books: I’m currently going to school for Computer Engineering at Texas A&M University
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Data Structure & Algorithms, Computer Architecture, and JavaScript
+- 📫 How to reach me: gabrielmarshall327@gmail.com
+- ⚡ Fun fact: I love playing chess!
 
 <!--
 **gabrielmarshall327/gabrielmarshall327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
