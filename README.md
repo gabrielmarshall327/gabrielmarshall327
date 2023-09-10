@@ -1,7 +1,7 @@
 Howdy! I'm Gabe!
 
 - :books: I’m currently going to school for Computer Engineering at Texas A&M University
-- 🌱 I’m currently learning Data Structure & Algorithms, Computer Architecture, and JavaScript
+- 🌱 I’m currently learning Computer Systems, AI development, and Backend development
 - 📫 How to reach me: gabrielmarshall327@gmail.com
 - ⚡ Fun fact: I love playing chess!
 
